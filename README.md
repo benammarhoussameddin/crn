@@ -1,2 +1,0 @@
-# crn
-coran app
